@@ -7,8 +7,8 @@ It is built using the **MERN (MongoDB, Express, React, Node.js)** stack and depl
 ---
 
 ## 🚀 Live Demo
-🌐 **Frontend:** [https://your-netlify-site.netlify.app](https://your-netlify-site.netlify.app)  
-🖥️ **Backend API:** [https://your-render-service.onrender.com/api](https://your-render-service.onrender.com/api)
+🌐 **Frontend:** [MiniLinked Frontend](https://minilinked-in.netlify.app)
+🖥️ **Backend API:** [MiniLinked API](https://linkedin-clone-pnrd.onrender.com)
 
 ---
 
@@ -197,8 +197,8 @@ linkedin-clone/
 
 ## 👨‍💻 Author
 **Ashutosh Mishra**  
-📧 [ashutm59@gmail.com]  
-🌐 GitHub: [https://github.com/ashutoshm2004]
+📧 [ashutm59@gmail.com](ashutm59@gmail.com)
+🌐 GitHub: [https://github.com/ashutoshm2004](https://github.com/ashutoshm2004)
 
 ---
 
